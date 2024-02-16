@@ -1,0 +1,36 @@
+
+## The Struggles of being a Beginner Programmer
+
+![Our GIGO dev on the cusp of his journey](https://cdn-images-1.medium.com/max/3584/1*1B8iZILFZ64Y6jnXI_Xstw.png)
+
+A little about myself, I am one of the developers for GIGO Dev and joined the company just months before starting work on the platform. I actually graduated college in a different field of engineering, but was presented with an opportunity to join the company that I could not refuse for various reasons. When the discussion first started about me joining the team, I had very little knowledge in programming. The most I had ever done was a class in high school and some MatLab in college. Needless to say, the learning curve was steep and I needed to get going. GIGO Dev would’ve been exactly what I was looking for a few years back when I first started programming.
+
+I think the hardest part for me was where exactly to start. I needed to learn programming for a job position and there is no real clear direction other than taking extensive courses. The most common piece of advice that experienced programmers give to beginners is to “do a project”. Essentially promoting the best way to learn is to learn by doing. That makes sense, right? Well maybe for us, but for a beginner this can be very daunting.
+
+I don’t know about anyone else, but I got hung up on selecting projects that would solidify the gap between theory and real-world application. I was not getting much out of online practice sites and the small basic projects. Not to mention, setting up an environment let alone using an IDE in general was confusing for a first timer. The thing about programming is that there are so many different ways to approach it, you feel like taking one path isn’t enough and it becomes overwhelming.
+
+Don’t get me wrong, doing projects like tic-tac-toe and other simple games do help to solidify the basics. The tricky part is to get comfortable with knowing what you are doing without guidance. You don’t always need to write code from scratch, but if you take a pre-existing project and make changes, you need to know what you are doing if you want to make progress.
+
+Over time and a few projects later, I obtained a decent overview of programming concepts but the confidence was not there. It wasn’t until I started working on real-world programming tasks at my job, supported by the guidance of my co-workers, that everything really began to click.. I know what you are thinking, “well of course, the best way to learn something is to just do it”. As someone who went to school for something completely different and is now a developer for a startup company, I can say it could be done without going to school.
+
+One of the first things I worked on at my job was a OTP for a login page for a previous product of ours. I had a lot of help from my co-workers, but essentially I learned how to find a pre-existing open source implementation and tweaked it to our use case. This taught me a lot of different things that I would not have discovered on my own or through any sites I knew about. Sometimes it is best to take an open sourced project and alter it for your own use. It will help you to be able to read someone else’s code and help you understand what happens when you make specific changes. Being able to work on real-world applications and make the necessary changes for the requirements helped make coding click faster. However, most people won’t have the opportunity to learn on the job like I did. With GIGO, we aim to provide the real-world project experience in a nice and efficient way.
+
+To be honest, I am not really sure how to convince you to believe I am not just being biased here. I will tell you this, however, I could part ways with the company today and I would still hold the same opinion of GIGO. We were all self taught programmers, so we know the struggles of being a beginner. This is why we created GIGO, so that we could provide something to the brave souls seeking to become self taught devs that we, the dev team, didn’t have. It is also for more than just beginners, as there are endless possibilities for all experience levels.
+
+GIGO provides an integrated custom development environment, called a DevSpace, in your browser. You can create a whole project on any computer or tablet as long as you have an internet connection. For a beginner, this is nice because it enables them to start on a project right away without having to worry about setting up an environment or an IDE. This allows for an immediate start with learning to code. It can be overwhelming to have to learn all of that up front, and this helps simplify that process. Over time, they will get more familiar with an IDE, specifically VSCode, and learn how to set up different environments.
+
+GIGO is also a great place to share projects and show them to the world. Take projects from your GitHub and be able to show them off, allowing people to play around with the project, without having to clone or fork it onto their computer. Again, learning something like this will come with time. Having beginners be able to start on projects immediately can be very beneficial. This is a great opportunity to build a community and be able to share projects and knowledge with fellow programmers. This opens the concept of being able to take an existing project and add your own spin to it for your specific use.
+
+One of the things that really helped me was having my co-workers right next to me where I could ask them questions about what I was doing. This helped me learn and solidify many concepts and approaches to code. A GIGO Dev pro account has a feature called CodeTeacher. With CodeTeacher, you have a chatbot that is fully integrated with your project and has knowledge of your codebase. You can ask any questions that are specific to what you are working on, and of course questions about anything you might need help with. It is nice because CodeTeacher is right there next to your project and is essentially reading your code alongside you.
+
+I could have really benefited from something like this when I was learning. Getting hit with the vast amount of paths and knowledge programming has to offer, it becomes overwhelming and a bit demotivating. Being able to jump straight into code is a great way to get started and gives the opportunity to make changes and see what affects what. Asking questions to someone or something specifically about my code and getting an answer quickly would have been very helpful, and was very helpful when I got it.
+
+Remember, the dev team and I are all self-taught programmers. We want to provide newcomers and even experienced programmers with an experience that we were not given. Programming is fun and has a vast amount of directions it can take you. We believe that it should be easy to get started.
+
+Discord: [https://discord.gg/MdKmqBzRqX
+](https://discord.gg/MdKmqBzRqX)Twitter:[ https://twitter.com/gigo_dev
+](https://twitter.com/gigo_dev)Reddit: [https://www.reddit.com/r/gigodev/](https://www.reddit.com/r/gigodev/)
+
+GitHub repository: [https://github.com/Gage-Technologies/gigo.dev](https://github.com/Gage-Technologies/gigo.dev)
+
+Get started on your first project at [gigo.dev](http://gigo.dev)
