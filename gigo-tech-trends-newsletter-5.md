@@ -1,4 +1,4 @@
-
+12-8-2023
 ## GIGO Tech Trends Newsletter 005
 
 ## Major Players in the AI Space

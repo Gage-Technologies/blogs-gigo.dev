@@ -1,4 +1,4 @@
-
+10-19-2023
 ## Unlocking the Power of GIGO’s Referral Program
 
 As programmers, we’re explorers of the digital realm, driven by a passion for crafting lines of code that bring ideas to life. When you first ventured into the world of GIGO, the learn-to-code community platform, you might have felt that unique blend of semi-structured learning and social interaction — a platform designed to fuel your coding journey while connecting you with fellow enthusiasts.

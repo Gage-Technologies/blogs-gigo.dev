@@ -1,4 +1,4 @@
-
+1-24-2024
 ## GIGO Tech Trends Newsletter 009
 
 ![](https://cdn-images-1.medium.com/max/3052/1*CAz948ypFNhmHV-k1pxJag.png)

@@ -1,4 +1,4 @@
-
+11-22-2023
 ## Learn To Code — What is GIGO?
 
 ![Future GIGO user assessing their self-education options](https://cdn-images-1.medium.com/max/2048/1*uYzGAfNfWeVYKztogE7hoA.png)

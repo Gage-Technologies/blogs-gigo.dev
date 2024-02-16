@@ -1,4 +1,4 @@
-
+11-29-2023
 ## GIGO Tech Trends Newsletter 004
 
 ## Bridging Minds and Machines — Advancements in Brain-Inspired AI and Neuromorphic Computing

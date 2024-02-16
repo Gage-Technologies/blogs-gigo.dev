@@ -1,4 +1,4 @@
-
+11-10-2023
 ## What is GIGO?
 
 ![](https://cdn-images-1.medium.com/max/2086/1*kn57Lil4VANnkRI3qq8qXg.png)

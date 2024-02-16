@@ -1,4 +1,4 @@
-
+10-26-2023
 ## How GIGO uses NATS to talk across its cluster
 
 TLDR: We used NATS Jetstream to connect nodes in GIGO for task delegation, DevSpace status updates, chat, and a lot more. I also made a tutorial and playground on GIGO so you can learn how to work with Jetstream or play around with an existing chat application.

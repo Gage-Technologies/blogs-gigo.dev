@@ -1,4 +1,4 @@
-
+12-1-2023
 ## The Struggles of being a Beginner Programmer
 
 ![Our GIGO dev on the cusp of his journey](https://cdn-images-1.medium.com/max/3584/1*1B8iZILFZ64Y6jnXI_Xstw.png)

@@ -1,4 +1,4 @@
-
+10-13-2023
 ## Who is GIGO?
 
 In the fall of 2022, our foundational programmers embarked on a quest for inspiration. Driven by a shared desire to craft something cutting-edge but practical, they wanted to build something that they as developers felt passionate about during creation through completion. After a week-long deliberation process the 5 devs arrived at the concept of GIGO.

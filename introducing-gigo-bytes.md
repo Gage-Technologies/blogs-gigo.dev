@@ -1,4 +1,4 @@
-
+2-7-2024
 ## Introducing GIGO Bytes
 
 ![](https://cdn-images-1.medium.com/max/2088/1*iCsMp02Lw_MbxKzMvjvflA.png)

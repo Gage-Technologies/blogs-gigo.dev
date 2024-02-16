@@ -1,4 +1,4 @@
-
+10-19-2023
 ## GIGO Tech Trends Newsletter 001
 
 ![](https://cdn-images-1.medium.com/max/3052/1*CAz948ypFNhmHV-k1pxJag.png)
