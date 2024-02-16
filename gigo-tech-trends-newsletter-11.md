@@ -1,4 +1,4 @@
-
+2/15/24
 ## **GIGO Tech Trends Newsletter 011**
 
 ![](https://cdn-images-1.medium.com/max/3052/1*CAz948ypFNhmHV-k1pxJag.png)
