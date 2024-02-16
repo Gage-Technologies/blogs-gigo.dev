@@ -1,3 +1,4 @@
+2-16-2024
 # Discovering Visual Studio Code: Your Gateway to the World of Coding
 
 ![](https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png)
