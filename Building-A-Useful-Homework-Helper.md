@@ -32,7 +32,7 @@ Right now, the agent can handle a bunch of languages – Python, JS/TS, Go, Rust
 
 ### Code Teacher Integration
 
-<Image of CT chat in HH>
+![Code Teacher chat in Homework Helper](images/CTchatinHH.png)
 
 Let's not forget about the brain behind the operation – Code Teacher (CT). CT's our in-house AI that's designed to offer personalized learning assistance for users on GIGO. But with Homework Helper, CT's got a new gig: completing your homework to in the most human-like fashion possible.
 
@@ -40,7 +40,7 @@ Tweaking an AI system to do your homework without looking like the product of an
 
 ### User Interface
 
-<Image of complete HH UI>
+![Complete Homework Helper](images/completeUI.png)
 
 Finally, the piece de resistance, the main user interface of Homework Helper.
 
