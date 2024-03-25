@@ -1,3 +1,4 @@
+3-25-2024
 At [GIGO](https://gigo.dev), we're all about helping people learn. If there's one thing we're crazy about, it's making education better for everyone. And let's be honest, homework usually isn't that helpful. That's why we made Homework Helper – because sometimes, you just want your homework done for you.
 
 ![HH](images/bookhomeowkrhelperPNG.png)
