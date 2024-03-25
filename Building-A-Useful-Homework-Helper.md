@@ -2,7 +2,7 @@
 
 At [GIGO](https://gigo.dev), we're all about helping people learn. If there's one thing we're crazy about, it's making education better for everyone. And let's be honest, homework usually isn't that helpful. That's why we made Homework Helper – because sometimes, you just want your homework done for you.
 
-![HH](images/bookhomeowkrhelperPNG.png)
+![HH](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/e54f8120148d4c7f6dfda3b4572ae2ca147651d3/images/bookhomeowkrhelperPNG.png)
 
 For those of you that don't know, Homework Helper (HH) is an AI software engineer that will do your homework for you. HH isn't your average chatbot. Specializing in math and programming assignments, HH comes equipped with a suite of tools to deliver insightful solutions. 
 
@@ -20,7 +20,7 @@ Let's get down to brass tacks – let's look at some of the primary points of th
 
 ### GIGO DevSpace.
 
-![Image of Editor & Terminal](images/editor-terminal-gigo.png)
+![Image of Editor & Terminal](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/e54f8120148d4c7f6dfda3b4572ae2ca147651d3/images/editor-terminal-gigo.png)
 
 GIGO's all about making coding as hassle-free as possible. Whenever you run code on our platform – be it Bytes, Challenges, or Journeys – we set you up with a Linux container right in our cloud. This setup's flexible enough to handle pretty much any system dependency or config you need.
 
@@ -40,7 +40,7 @@ Tweaking an AI system to do your homework without looking like the product of an
 
 ### User Interface
 
-![Complete Homework Helper](images/completeUI.png)
+![Complete Homework Helper](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/e54f8120148d4c7f6dfda3b4572ae2ca147651d3/images/CTchatinHH.png)
 
 Finally, the piece de resistance, the main user interface of Homework Helper.
 
