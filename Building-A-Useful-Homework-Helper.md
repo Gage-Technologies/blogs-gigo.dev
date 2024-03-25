@@ -54,3 +54,6 @@ The dressed up parts of HH include an in-browser code editor with syntax highlig
 
 Overall, Homework Helper is a new part of the GIGO platform and we are still exploring the experience that we'd like to provide. With that said, the fastest way for us to provide a great experience is to receive feedback on how users make use of it. So head on over to HH on GIGO and let us know what you think!
 [Homework Helper](https://www.gigo.dev/homework)
+
+![You, on your coding journey](images/homeworkhelperimg2.png)
+
