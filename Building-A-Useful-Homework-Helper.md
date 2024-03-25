@@ -20,7 +20,7 @@ Let's get down to brass tacks – let's look at some of the primary points of th
 
 ### GIGO DevSpace.
 
-![HH](images/bookhomeowkrhelperPNG.png)
+![Image of Editor & Terminal](images/editor-terminal-gigo.png)
 
 GIGO's all about making coding as hassle-free as possible. Whenever you run code on our platform – be it Bytes, Challenges, or Journeys – we set you up with a Linux container right in our cloud. This setup's flexible enough to handle pretty much any system dependency or config you need.
 
