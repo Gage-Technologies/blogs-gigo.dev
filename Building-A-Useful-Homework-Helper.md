@@ -1,20 +1,26 @@
 3-25-2024
+
 At [GIGO](https://gigo.dev), we're all about helping people learn. If there's one thing we're crazy about, it's making education better for everyone. And let's be honest, homework usually isn't that helpful. That's why we made Homework Helper – because sometimes, you just want your homework done for you.
 
 ![HH](images/bookhomeowkrhelperPNG.png)
 
-For those of you that don't know, Homework Helper (HH) is an AI software engineer that will do your homework for you. HH isn't your average chatbot. Specializing in math and programming assignments, HH comes equipped with a suite of tools to deliver insightful solutions. A standout feature is the dedicated GIGO DevSpace, enabling HH to run, debug, and iteratively refine code across most common programming languages. Moreover, HH's capability to install third-party packages and access the internet sets it apart from standard chatbots, allowing it to address a wide range of programming challenges with ease.
+For those of you that don't know, Homework Helper (HH) is an AI software engineer that will do your homework for you. HH isn't your average chatbot. Specializing in math and programming assignments, HH comes equipped with a suite of tools to deliver insightful solutions. 
+
+A standout feature is the dedicated GIGO DevSpace, enabling HH to run, debug, and iteratively refine code across most common programming languages. Moreover, HH's capability to install third-party packages and access the internet sets it apart from standard chatbots, allowing it to address a wide range of programming challenges with ease.
 
 I'll be honest, Homework Helper is a marketing toy. We hope that users will use it and then choose to learn on our platform when they have free time. Even though this may seem counter-intuitive, we believe there are many people that want to learn and practice cool skills that also hate doing homework. If all you care about is getting an AI bot to do your homework for you, you probably won't care about the rest of this article.
 
 Let's get down to brass tacks – let's look at some of the primary points of the system:
+
     1. GIGO DevSpace
+    
     2. Code Teacher Integration
+    
     3. User Interface
 
 ### GIGO DevSpace.
 
-<Image of editor + terminal>
+![HH](images/bookhomeowkrhelperPNG.png)
 
 GIGO's all about making coding as hassle-free as possible. Whenever you run code on our platform – be it Bytes, Challenges, or Journeys – we set you up with a Linux container right in our cloud. This setup's flexible enough to handle pretty much any system dependency or config you need.
 
