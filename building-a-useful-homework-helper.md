@@ -1,6 +1,8 @@
 3-25-2024
 
-![HH](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/e54f8120148d4c7f6dfda3b4572ae2ca147651d3/images/bookhomeowkrhelperPNG.png)
+# Building A Useful Homework Helper
+
+![HH](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/bookhomeowkrhelperPNG.png)
 
 At [GIGO](https://gigo.dev), we're all about helping people learn. If there's one thing we're crazy about, it's making education better for everyone. And let's be honest, homework usually isn't that helpful. That's why we made Homework Helper – because sometimes, you just want your homework done for you.
 
@@ -20,7 +22,7 @@ Let's get down to brass tacks – let's look at some of the primary points of th
 
 ### GIGO DevSpace.
 
-![Image of Editor & Terminal](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/e54f8120148d4c7f6dfda3b4572ae2ca147651d3/images/editor-terminal-gigo.png)
+![Image of Editor & Terminal](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/editor-terminal-gigo.png)
 
 GIGO's all about making coding as hassle-free as possible. Whenever you run code on our platform – be it Bytes, Challenges, or Journeys – we set you up with a Linux container right in our cloud. This setup's flexible enough to handle pretty much any system dependency or config you need.
 
@@ -32,7 +34,7 @@ Right now, the agent can handle a bunch of languages – Python, JS/TS, Go, Rust
 
 ### Code Teacher Integration
 
-![Code Teacher chat in Homework Helper](images/CTchatinHH.png)
+![Code Teacher chat in Homework Helper](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/CTchatinHH.png)
 
 Let's not forget about the brain behind the operation – Code Teacher (CT). CT's our in-house AI that's designed to offer personalized learning assistance for users on GIGO. But with Homework Helper, CT's got a new gig: completing your homework to in the most human-like fashion possible.
 
@@ -40,7 +42,7 @@ Tweaking an AI system to do your homework without looking like the product of an
 
 ### User Interface
 
-![Complete Homework Helper](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/236fa815912722365a0631f8112afd4426d10694/images/completeUI.png)
+![Complete Homework Helper](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/completeUI.png)
 
 Finally, the piece de resistance, the main user interface of Homework Helper.
 
@@ -55,5 +57,5 @@ The dressed up parts of HH include an in-browser code editor with syntax highlig
 Overall, Homework Helper is a new part of the GIGO platform and we are still exploring the experience that we'd like to provide. With that said, the fastest way for us to provide a great experience is to receive feedback on how users make use of it. So head on over to HH on GIGO and let us know what you think!
 [Homework Helper](https://www.gigo.dev/homework)
 
-![You, on your coding journey](https://github.com/Gage-Technologies/blogs-gigo.dev/blob/236fa815912722365a0631f8112afd4426d10694/images/homeworkhelperimg2.png)
+![You, on your coding journey](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/homeworkhelperimg2.png)
 
