@@ -64,4 +64,4 @@ Sources:
 
 "White House encourages the shift away from C and C++ to prevent cyberattacks" - InfoWorld - https://www.infoworld.com/article/3713203/white-house-urges-developers-to-dump-c-and-c.html
 
-Find this article on our medium: 
+Find this article on our medium: https://medium.com/@gigo_dev/the-white-houses-directive-on-cybersecurity-gigo-tech-trends-newsletter-018-d3c0df4ec57f
