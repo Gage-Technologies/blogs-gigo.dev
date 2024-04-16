@@ -64,4 +64,4 @@ As the landscape of software development continues to evolve, tools like StarCod
 
 [GIGO GitHub](https://github.com/Gage-Technologies/gigo.dev)
 
-Find [this article on Medium]([https://medium.com/@gigo_dev/tech-trends-newsletter-012-fb2d0c03fa45](https://medium.com/@gigo_dev/gigo-tech-trends-newsletter-013-0ddacab630ce))
+Find [this article on Medium](https://medium.com/@gigo_dev/gigo-tech-trends-newsletter-013-0ddacab630ce)
