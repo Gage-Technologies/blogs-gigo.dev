@@ -1,3 +1,5 @@
+4-16-2024
+
 ![HH](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/GIGO_newsletter_banner.png)
 
 On Valentine’s day, I stumbled upon Madhur Behl, a computer science professor who studies artificial intelligence, robotics and autonomous vehicles at the University of Virginia, leading the [Cavalier Autonomous Racing Team](https://autonomousracing.dev) Cavalier Autonomous Racing team.
