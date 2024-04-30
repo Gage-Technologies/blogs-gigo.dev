@@ -43,3 +43,13 @@ Journeys are designed to provide structure for new and experienced programmers t
 Having a properly structured path when learning to code will ensure you stay consistent and motivated.
 
 Enter the Jungle and start your Journey today at [gigo.dev](gigo.dev)
+
+[GIGO Discord](https://discord.gg/learnprogramming)
+
+[GIGO Twitter](https://twitter.com/gigo_dev)
+
+[GIGO Reddit](https://www.reddit.com/r/gigodev/)
+
+[GIGO GitHub](https://github.com/Gage-Technologies/gigo.dev)
+
+Find [this article on Medium](https://medium.com/@gigo_dev/gigo-journey-whats-a-detour-47ae661ce69e)
