@@ -60,7 +60,7 @@ However, as you complete Bytes and expand your knowledge-base its natural for th
 
 We call these Detours, Detours are your ability to add interesting units to your Journey. Here’s what it looks like when assessing detour options.
 
-![Screenshotted](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/introGIGO.png)
+![Detour screenshot](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/introGIGO.png)
 
 **GIGO Dev is the best place to learn to code**
 
