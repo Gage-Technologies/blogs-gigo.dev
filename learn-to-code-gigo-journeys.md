@@ -1,8 +1,8 @@
 5-1-2024
 
-# Learn to Code - GIGO Journeys 
-
 ![cool AI image from our Discord](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/journeysimagePNG.png)
+
+# Learn to Code - GIGO Journeys 
 
 GIGO Dev provides structured learning for new and experienced programmers to improve their programming skills.
 
