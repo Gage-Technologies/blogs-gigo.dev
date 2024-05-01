@@ -2,7 +2,7 @@
 
 ![HH](https://raw.githubusercontent.com/Gage-Technologies/blogs-gigo.dev/master/images/GIGO_newsletter_banner.png)
 
-On Valentine’s day, I stumbled upon Madhur Behl, a computer science professor who studies artificial intelligence, robotics and autonomous vehicles at the University of Virginia, leading the [Cavalier Autonomous Racing Team](https://autonomousracing.dev) Cavalier Autonomous Racing team.
+On Valentine’s day, I stumbled upon Madhur Behl, a computer science professor who studies artificial intelligence, robotics and autonomous vehicles at the University of Virginia, leading the [Cavalier Autonomous Racing Team](https://autonomousracing.dev).
 
 He expanded on the application of AI to high-speed motorsports and what that means for the average person in this [great article](https://techxplore.com/news/2024-02-ai-autonomous-auto-safer-driverless.html) detailing how autonomous auto racing, featuring driverless cars competing at high speeds, is advancing AI technology and making driverless cars safer for road use.
 
