@@ -32,3 +32,5 @@ VS Code is renowned for its simplicity and efficiency. It's designed to be as li
 ## Conclusion
 
 Visual Studio Code demystifies the coding process, providing an accessible, powerful platform for anyone looking to dive into the world of software development. Whether your interest lies in creating websites, developing apps, or exploring data science, VS Code offers the tools and support to turn your ideas into reality. With its user-friendly features and supportive community, VS Code stands as a gateway to unlocking the potential of coding for novices and professionals alike. Start your coding journey with VS Code, and step into the exciting world of technology creation.
+
+Find [this article on dev.to](https://dev.to/gigo_dev/what-is-vscode-49fl)
