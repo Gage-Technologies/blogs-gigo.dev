@@ -125,3 +125,5 @@ Remember, there are tons of resources and communities out there to support you i
 [GIGO GitHub](https://github.com/Gage-Technologies/gigo.dev)
 
 Find [this article on Medium](https://medium.com/@gigo_dev/how-a-beginner-should-start-coding-2024-e09961680d8e)
+
+Find [this article on dev.to](https://dev.to/gigo_dev/how-a-beginner-should-start-coding-2024-3mo4)
